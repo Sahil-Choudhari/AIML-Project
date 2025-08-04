@@ -1,0 +1,15 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore notebook backups
+*-checkpoint.ipynb
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore a whole folder
+logs/
