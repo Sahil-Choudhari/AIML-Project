@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints
 
@@ -13,3 +14,6 @@ secrets.txt
 
 # Ignore a whole folder
 logs/
+=======
+.ipynb_checkpoints
+>>>>>>> 3a2acb3308f6b7fabb230c3b52bf24de284a0b4c
